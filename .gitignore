@@ -1,0 +1,108 @@
+/cafe-fausse/frontend/node_modules
+/cafe-fausse/frontend/node_modules
+/cafe-fausse/frontend/node_modules
+/cafe-fausse/frontend/node_modules/.cache/default-development
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Virtual environments
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# Flask instance folder
+instance/
+
+# PyInstaller
+*.manifest
+*.spec
+
+# Logs
+*.log
+*.out
+
+# SQLite database (if used)
+*.db
+*.sqlite3
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Environment variables
+.env
+
+# pytest
+.pytest_cache/
+
+# Node modules
+node_modules/
+
+# Build output
+build/
+dist/
+
+# Environment variables
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+
+# Logs
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Editor directories and files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Optional: lock files (if you want to ignore them, usually not recommended)
+# package-lock.json
+# yarn.lock
+# pnpm-lock.yaml
+*node_modules*
+cafe-fausse/frontend/node_modules/.cache/.eslintcache
+cafe-fausse/frontend/node_modules/.cache/.eslintcache
+cafe-fausse/frontend/node_modules/.cache/default-development/index.pack.old
+cafe-fausse/frontend/node_modules/.cache/default-development/index.pack
+cafe-fausse/frontend/node_modules/.cache/default-development/1.pack
+cafe-fausse/frontend/node_modules/.cache/default-development/0.pack
+cafe-fausse/frontend/node_modules/.cache/.eslintcache
+/cafe-fausse/frontend/node_modules
+cafe-fausse/frontend/node_modules/.cache/.eslintcache
+*.pack
